@@ -1,0 +1,14 @@
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-Challenge/bin/Debug/net9.0/11.Modify-Str-Contents-Challenge
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-Challenge/bin/Debug/net9.0/11.Modify-Str-Contents-Challenge.deps.json
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-Challenge/bin/Debug/net9.0/11.Modify-Str-Contents-Challenge.runtimeconfig.json
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-Challenge/bin/Debug/net9.0/11.Modify-Str-Contents-Challenge.dll
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-Challenge/bin/Debug/net9.0/11.Modify-Str-Contents-Challenge.pdb
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-Challenge/obj/Debug/net9.0/11.Modify-Str-Contents-Challenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-Challenge/obj/Debug/net9.0/11.Modify-Str-Contents-Challenge.AssemblyInfoInputs.cache
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-Challenge/obj/Debug/net9.0/11.Modify-Str-Contents-Challenge.AssemblyInfo.cs
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-Challenge/obj/Debug/net9.0/11.Modify-Str-Contents-Challenge.csproj.CoreCompileInputs.cache
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-Challenge/obj/Debug/net9.0/11.Modify-Str-Contents-Challenge.dll
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-Challenge/obj/Debug/net9.0/refint/11.Modify-Str-Contents-Challenge.dll
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-Challenge/obj/Debug/net9.0/11.Modify-Str-Contents-Challenge.pdb
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-Challenge/obj/Debug/net9.0/11.Modify-Str-Contents-Challenge.genruntimeconfig.cache
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-Challenge/obj/Debug/net9.0/ref/11.Modify-Str-Contents-Challenge.dll
