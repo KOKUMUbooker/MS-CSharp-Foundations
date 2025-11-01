@@ -1,0 +1,14 @@
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-RemoveNReplace/bin/Debug/net9.0/11.Modify-Str-Contents-RemoveNReplace
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-RemoveNReplace/bin/Debug/net9.0/11.Modify-Str-Contents-RemoveNReplace.deps.json
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-RemoveNReplace/bin/Debug/net9.0/11.Modify-Str-Contents-RemoveNReplace.runtimeconfig.json
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-RemoveNReplace/bin/Debug/net9.0/11.Modify-Str-Contents-RemoveNReplace.dll
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-RemoveNReplace/bin/Debug/net9.0/11.Modify-Str-Contents-RemoveNReplace.pdb
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-RemoveNReplace/obj/Debug/net9.0/11.Modify-Str-Contents-RemoveNReplace.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-RemoveNReplace/obj/Debug/net9.0/11.Modify-Str-Contents-RemoveNReplace.AssemblyInfoInputs.cache
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-RemoveNReplace/obj/Debug/net9.0/11.Modify-Str-Contents-RemoveNReplace.AssemblyInfo.cs
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-RemoveNReplace/obj/Debug/net9.0/11.Modify-Str-Contents-RemoveNReplace.csproj.CoreCompileInputs.cache
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-RemoveNReplace/obj/Debug/net9.0/11.Modify-Str-Contents-RemoveNReplace.dll
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-RemoveNReplace/obj/Debug/net9.0/refint/11.Modify-Str-Contents-RemoveNReplace.dll
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-RemoveNReplace/obj/Debug/net9.0/11.Modify-Str-Contents-RemoveNReplace.pdb
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-RemoveNReplace/obj/Debug/net9.0/11.Modify-Str-Contents-RemoveNReplace.genruntimeconfig.cache
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-RemoveNReplace/obj/Debug/net9.0/ref/11.Modify-Str-Contents-RemoveNReplace.dll
