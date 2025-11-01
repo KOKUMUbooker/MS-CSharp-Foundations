@@ -1,5 +1,5 @@
 ﻿/*
- IndexOf() - Gives index of first occurence of a specific character or string from some string. 
+ IndexOf() - Gives index of first occurence of a specific character or word from some string. 
  Substring(startIndex, len) - Extract a new string from the original starting from the provided index & takes 
                               (len - 1) characters
 */
