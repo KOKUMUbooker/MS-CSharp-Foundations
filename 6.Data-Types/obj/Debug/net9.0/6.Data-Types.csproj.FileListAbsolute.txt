@@ -1,0 +1,14 @@
+/home/booker/projects/C#/MS-Certification/6.Data-Types/obj/Debug/net9.0/6.Data-Types.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C#/MS-Certification/6.Data-Types/obj/Debug/net9.0/6.Data-Types.AssemblyInfoInputs.cache
+/home/booker/projects/C#/MS-Certification/6.Data-Types/obj/Debug/net9.0/6.Data-Types.AssemblyInfo.cs
+/home/booker/projects/C#/MS-Certification/6.Data-Types/obj/Debug/net9.0/6.Data-Types.csproj.CoreCompileInputs.cache
+/home/booker/projects/C#/MS-Certification/6.Data-Types/bin/Debug/net9.0/6.Data-Types
+/home/booker/projects/C#/MS-Certification/6.Data-Types/bin/Debug/net9.0/6.Data-Types.deps.json
+/home/booker/projects/C#/MS-Certification/6.Data-Types/bin/Debug/net9.0/6.Data-Types.runtimeconfig.json
+/home/booker/projects/C#/MS-Certification/6.Data-Types/bin/Debug/net9.0/6.Data-Types.dll
+/home/booker/projects/C#/MS-Certification/6.Data-Types/bin/Debug/net9.0/6.Data-Types.pdb
+/home/booker/projects/C#/MS-Certification/6.Data-Types/obj/Debug/net9.0/6.Data-Types.dll
+/home/booker/projects/C#/MS-Certification/6.Data-Types/obj/Debug/net9.0/refint/6.Data-Types.dll
+/home/booker/projects/C#/MS-Certification/6.Data-Types/obj/Debug/net9.0/6.Data-Types.pdb
+/home/booker/projects/C#/MS-Certification/6.Data-Types/obj/Debug/net9.0/6.Data-Types.genruntimeconfig.cache
+/home/booker/projects/C#/MS-Certification/6.Data-Types/obj/Debug/net9.0/ref/6.Data-Types.dll

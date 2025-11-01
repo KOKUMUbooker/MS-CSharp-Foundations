@@ -1,0 +1,14 @@
+/home/booker/projects/C#/MS-Certification/10.Formatting-Strings-Challenge/bin/Debug/net9.0/10.Formatting-Strings-Challenge
+/home/booker/projects/C#/MS-Certification/10.Formatting-Strings-Challenge/bin/Debug/net9.0/10.Formatting-Strings-Challenge.deps.json
+/home/booker/projects/C#/MS-Certification/10.Formatting-Strings-Challenge/bin/Debug/net9.0/10.Formatting-Strings-Challenge.runtimeconfig.json
+/home/booker/projects/C#/MS-Certification/10.Formatting-Strings-Challenge/bin/Debug/net9.0/10.Formatting-Strings-Challenge.dll
+/home/booker/projects/C#/MS-Certification/10.Formatting-Strings-Challenge/bin/Debug/net9.0/10.Formatting-Strings-Challenge.pdb
+/home/booker/projects/C#/MS-Certification/10.Formatting-Strings-Challenge/obj/Debug/net9.0/10.Formatting-Strings-Challenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C#/MS-Certification/10.Formatting-Strings-Challenge/obj/Debug/net9.0/10.Formatting-Strings-Challenge.AssemblyInfoInputs.cache
+/home/booker/projects/C#/MS-Certification/10.Formatting-Strings-Challenge/obj/Debug/net9.0/10.Formatting-Strings-Challenge.AssemblyInfo.cs
+/home/booker/projects/C#/MS-Certification/10.Formatting-Strings-Challenge/obj/Debug/net9.0/10.Formatting-Strings-Challenge.csproj.CoreCompileInputs.cache
+/home/booker/projects/C#/MS-Certification/10.Formatting-Strings-Challenge/obj/Debug/net9.0/10.Formatting-Strings-Challenge.dll
+/home/booker/projects/C#/MS-Certification/10.Formatting-Strings-Challenge/obj/Debug/net9.0/refint/10.Formatting-Strings-Challenge.dll
+/home/booker/projects/C#/MS-Certification/10.Formatting-Strings-Challenge/obj/Debug/net9.0/10.Formatting-Strings-Challenge.pdb
+/home/booker/projects/C#/MS-Certification/10.Formatting-Strings-Challenge/obj/Debug/net9.0/10.Formatting-Strings-Challenge.genruntimeconfig.cache
+/home/booker/projects/C#/MS-Certification/10.Formatting-Strings-Challenge/obj/Debug/net9.0/ref/10.Formatting-Strings-Challenge.dll

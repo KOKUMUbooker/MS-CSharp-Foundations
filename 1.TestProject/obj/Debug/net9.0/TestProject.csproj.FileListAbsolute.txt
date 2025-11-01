@@ -1,0 +1,14 @@
+/home/booker/projects/C#/MS-Certification/TestProject/bin/Debug/net9.0/TestProject
+/home/booker/projects/C#/MS-Certification/TestProject/bin/Debug/net9.0/TestProject.deps.json
+/home/booker/projects/C#/MS-Certification/TestProject/bin/Debug/net9.0/TestProject.runtimeconfig.json
+/home/booker/projects/C#/MS-Certification/TestProject/bin/Debug/net9.0/TestProject.dll
+/home/booker/projects/C#/MS-Certification/TestProject/bin/Debug/net9.0/TestProject.pdb
+/home/booker/projects/C#/MS-Certification/TestProject/obj/Debug/net9.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C#/MS-Certification/TestProject/obj/Debug/net9.0/TestProject.AssemblyInfoInputs.cache
+/home/booker/projects/C#/MS-Certification/TestProject/obj/Debug/net9.0/TestProject.AssemblyInfo.cs
+/home/booker/projects/C#/MS-Certification/TestProject/obj/Debug/net9.0/TestProject.csproj.CoreCompileInputs.cache
+/home/booker/projects/C#/MS-Certification/TestProject/obj/Debug/net9.0/TestProject.dll
+/home/booker/projects/C#/MS-Certification/TestProject/obj/Debug/net9.0/refint/TestProject.dll
+/home/booker/projects/C#/MS-Certification/TestProject/obj/Debug/net9.0/TestProject.pdb
+/home/booker/projects/C#/MS-Certification/TestProject/obj/Debug/net9.0/TestProject.genruntimeconfig.cache
+/home/booker/projects/C#/MS-Certification/TestProject/obj/Debug/net9.0/ref/TestProject.dll

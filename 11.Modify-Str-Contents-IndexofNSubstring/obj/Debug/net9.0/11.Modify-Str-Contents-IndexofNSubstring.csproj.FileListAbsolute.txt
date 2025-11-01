@@ -1,0 +1,14 @@
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-IndexofNSubstring/bin/Debug/net9.0/11.Modify-Str-Contents-IndexofNSubstring
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-IndexofNSubstring/bin/Debug/net9.0/11.Modify-Str-Contents-IndexofNSubstring.deps.json
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-IndexofNSubstring/bin/Debug/net9.0/11.Modify-Str-Contents-IndexofNSubstring.runtimeconfig.json
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-IndexofNSubstring/bin/Debug/net9.0/11.Modify-Str-Contents-IndexofNSubstring.dll
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-IndexofNSubstring/bin/Debug/net9.0/11.Modify-Str-Contents-IndexofNSubstring.pdb
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-IndexofNSubstring/obj/Debug/net9.0/11.Modify-Str-Contents-IndexofNSubstring.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-IndexofNSubstring/obj/Debug/net9.0/11.Modify-Str-Contents-IndexofNSubstring.AssemblyInfoInputs.cache
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-IndexofNSubstring/obj/Debug/net9.0/11.Modify-Str-Contents-IndexofNSubstring.AssemblyInfo.cs
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-IndexofNSubstring/obj/Debug/net9.0/11.Modify-Str-Contents-IndexofNSubstring.csproj.CoreCompileInputs.cache
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-IndexofNSubstring/obj/Debug/net9.0/11.Modify-Str-Contents-IndexofNSubstring.dll
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-IndexofNSubstring/obj/Debug/net9.0/refint/11.Modify-Str-Contents-IndexofNSubstring.dll
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-IndexofNSubstring/obj/Debug/net9.0/11.Modify-Str-Contents-IndexofNSubstring.pdb
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-IndexofNSubstring/obj/Debug/net9.0/11.Modify-Str-Contents-IndexofNSubstring.genruntimeconfig.cache
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-IndexofNSubstring/obj/Debug/net9.0/ref/11.Modify-Str-Contents-IndexofNSubstring.dll

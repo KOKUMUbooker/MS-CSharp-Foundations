@@ -1,0 +1,14 @@
+/home/booker/projects/C#/MS-Certification/8.Type-Conv-Challenge/bin/Debug/net9.0/8.Type-Conv-Challenge
+/home/booker/projects/C#/MS-Certification/8.Type-Conv-Challenge/bin/Debug/net9.0/8.Type-Conv-Challenge.deps.json
+/home/booker/projects/C#/MS-Certification/8.Type-Conv-Challenge/bin/Debug/net9.0/8.Type-Conv-Challenge.runtimeconfig.json
+/home/booker/projects/C#/MS-Certification/8.Type-Conv-Challenge/bin/Debug/net9.0/8.Type-Conv-Challenge.dll
+/home/booker/projects/C#/MS-Certification/8.Type-Conv-Challenge/bin/Debug/net9.0/8.Type-Conv-Challenge.pdb
+/home/booker/projects/C#/MS-Certification/8.Type-Conv-Challenge/obj/Debug/net9.0/8.Type-Conv-Challenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C#/MS-Certification/8.Type-Conv-Challenge/obj/Debug/net9.0/8.Type-Conv-Challenge.AssemblyInfoInputs.cache
+/home/booker/projects/C#/MS-Certification/8.Type-Conv-Challenge/obj/Debug/net9.0/8.Type-Conv-Challenge.AssemblyInfo.cs
+/home/booker/projects/C#/MS-Certification/8.Type-Conv-Challenge/obj/Debug/net9.0/8.Type-Conv-Challenge.csproj.CoreCompileInputs.cache
+/home/booker/projects/C#/MS-Certification/8.Type-Conv-Challenge/obj/Debug/net9.0/8.Type-Conv-Challenge.dll
+/home/booker/projects/C#/MS-Certification/8.Type-Conv-Challenge/obj/Debug/net9.0/refint/8.Type-Conv-Challenge.dll
+/home/booker/projects/C#/MS-Certification/8.Type-Conv-Challenge/obj/Debug/net9.0/8.Type-Conv-Challenge.pdb
+/home/booker/projects/C#/MS-Certification/8.Type-Conv-Challenge/obj/Debug/net9.0/8.Type-Conv-Challenge.genruntimeconfig.cache
+/home/booker/projects/C#/MS-Certification/8.Type-Conv-Challenge/obj/Debug/net9.0/ref/8.Type-Conv-Challenge.dll

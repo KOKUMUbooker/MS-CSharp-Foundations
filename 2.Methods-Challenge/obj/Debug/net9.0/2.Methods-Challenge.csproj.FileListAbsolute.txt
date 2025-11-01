@@ -1,0 +1,14 @@
+/home/booker/projects/C#/MS-Certification/2.Methods-Challenge/bin/Debug/net9.0/2.Methods-Challenge
+/home/booker/projects/C#/MS-Certification/2.Methods-Challenge/bin/Debug/net9.0/2.Methods-Challenge.deps.json
+/home/booker/projects/C#/MS-Certification/2.Methods-Challenge/bin/Debug/net9.0/2.Methods-Challenge.runtimeconfig.json
+/home/booker/projects/C#/MS-Certification/2.Methods-Challenge/bin/Debug/net9.0/2.Methods-Challenge.dll
+/home/booker/projects/C#/MS-Certification/2.Methods-Challenge/bin/Debug/net9.0/2.Methods-Challenge.pdb
+/home/booker/projects/C#/MS-Certification/2.Methods-Challenge/obj/Debug/net9.0/2.Methods-Challenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C#/MS-Certification/2.Methods-Challenge/obj/Debug/net9.0/2.Methods-Challenge.AssemblyInfoInputs.cache
+/home/booker/projects/C#/MS-Certification/2.Methods-Challenge/obj/Debug/net9.0/2.Methods-Challenge.AssemblyInfo.cs
+/home/booker/projects/C#/MS-Certification/2.Methods-Challenge/obj/Debug/net9.0/2.Methods-Challenge.csproj.CoreCompileInputs.cache
+/home/booker/projects/C#/MS-Certification/2.Methods-Challenge/obj/Debug/net9.0/2.Methods-Challenge.dll
+/home/booker/projects/C#/MS-Certification/2.Methods-Challenge/obj/Debug/net9.0/refint/2.Methods-Challenge.dll
+/home/booker/projects/C#/MS-Certification/2.Methods-Challenge/obj/Debug/net9.0/2.Methods-Challenge.pdb
+/home/booker/projects/C#/MS-Certification/2.Methods-Challenge/obj/Debug/net9.0/2.Methods-Challenge.genruntimeconfig.cache
+/home/booker/projects/C#/MS-Certification/2.Methods-Challenge/obj/Debug/net9.0/ref/2.Methods-Challenge.dll
