@@ -1,0 +1,14 @@
+/home/booker/projects/C#/MS-Certification/12.Work-with-variables-Guided-Project/bin/Debug/net9.0/12.Work-with-variables-Guided-Project
+/home/booker/projects/C#/MS-Certification/12.Work-with-variables-Guided-Project/bin/Debug/net9.0/12.Work-with-variables-Guided-Project.deps.json
+/home/booker/projects/C#/MS-Certification/12.Work-with-variables-Guided-Project/bin/Debug/net9.0/12.Work-with-variables-Guided-Project.runtimeconfig.json
+/home/booker/projects/C#/MS-Certification/12.Work-with-variables-Guided-Project/bin/Debug/net9.0/12.Work-with-variables-Guided-Project.dll
+/home/booker/projects/C#/MS-Certification/12.Work-with-variables-Guided-Project/bin/Debug/net9.0/12.Work-with-variables-Guided-Project.pdb
+/home/booker/projects/C#/MS-Certification/12.Work-with-variables-Guided-Project/obj/Debug/net9.0/12.Work-with-variables-Guided-Project.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C#/MS-Certification/12.Work-with-variables-Guided-Project/obj/Debug/net9.0/12.Work-with-variables-Guided-Project.AssemblyInfoInputs.cache
+/home/booker/projects/C#/MS-Certification/12.Work-with-variables-Guided-Project/obj/Debug/net9.0/12.Work-with-variables-Guided-Project.AssemblyInfo.cs
+/home/booker/projects/C#/MS-Certification/12.Work-with-variables-Guided-Project/obj/Debug/net9.0/12.Work-with-variables-Guided-Project.csproj.CoreCompileInputs.cache
+/home/booker/projects/C#/MS-Certification/12.Work-with-variables-Guided-Project/obj/Debug/net9.0/12.Work-with-variables-Guided-Project.dll
+/home/booker/projects/C#/MS-Certification/12.Work-with-variables-Guided-Project/obj/Debug/net9.0/refint/12.Work-with-variables-Guided-Project.dll
+/home/booker/projects/C#/MS-Certification/12.Work-with-variables-Guided-Project/obj/Debug/net9.0/12.Work-with-variables-Guided-Project.pdb
+/home/booker/projects/C#/MS-Certification/12.Work-with-variables-Guided-Project/obj/Debug/net9.0/12.Work-with-variables-Guided-Project.genruntimeconfig.cache
+/home/booker/projects/C#/MS-Certification/12.Work-with-variables-Guided-Project/obj/Debug/net9.0/ref/12.Work-with-variables-Guided-Project.dll
