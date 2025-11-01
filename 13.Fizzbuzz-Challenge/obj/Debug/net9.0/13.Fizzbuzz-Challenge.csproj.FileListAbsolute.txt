@@ -1,0 +1,14 @@
+/home/booker/projects/C#/MS-Certification/13.Fizzbuzz-Challenge/bin/Debug/net9.0/13.Fizzbuzz-Challenge
+/home/booker/projects/C#/MS-Certification/13.Fizzbuzz-Challenge/bin/Debug/net9.0/13.Fizzbuzz-Challenge.deps.json
+/home/booker/projects/C#/MS-Certification/13.Fizzbuzz-Challenge/bin/Debug/net9.0/13.Fizzbuzz-Challenge.runtimeconfig.json
+/home/booker/projects/C#/MS-Certification/13.Fizzbuzz-Challenge/bin/Debug/net9.0/13.Fizzbuzz-Challenge.dll
+/home/booker/projects/C#/MS-Certification/13.Fizzbuzz-Challenge/bin/Debug/net9.0/13.Fizzbuzz-Challenge.pdb
+/home/booker/projects/C#/MS-Certification/13.Fizzbuzz-Challenge/obj/Debug/net9.0/13.Fizzbuzz-Challenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C#/MS-Certification/13.Fizzbuzz-Challenge/obj/Debug/net9.0/13.Fizzbuzz-Challenge.AssemblyInfoInputs.cache
+/home/booker/projects/C#/MS-Certification/13.Fizzbuzz-Challenge/obj/Debug/net9.0/13.Fizzbuzz-Challenge.AssemblyInfo.cs
+/home/booker/projects/C#/MS-Certification/13.Fizzbuzz-Challenge/obj/Debug/net9.0/13.Fizzbuzz-Challenge.csproj.CoreCompileInputs.cache
+/home/booker/projects/C#/MS-Certification/13.Fizzbuzz-Challenge/obj/Debug/net9.0/13.Fizzbuzz-Challenge.dll
+/home/booker/projects/C#/MS-Certification/13.Fizzbuzz-Challenge/obj/Debug/net9.0/refint/13.Fizzbuzz-Challenge.dll
+/home/booker/projects/C#/MS-Certification/13.Fizzbuzz-Challenge/obj/Debug/net9.0/13.Fizzbuzz-Challenge.pdb
+/home/booker/projects/C#/MS-Certification/13.Fizzbuzz-Challenge/obj/Debug/net9.0/13.Fizzbuzz-Challenge.genruntimeconfig.cache
+/home/booker/projects/C#/MS-Certification/13.Fizzbuzz-Challenge/obj/Debug/net9.0/ref/13.Fizzbuzz-Challenge.dll
