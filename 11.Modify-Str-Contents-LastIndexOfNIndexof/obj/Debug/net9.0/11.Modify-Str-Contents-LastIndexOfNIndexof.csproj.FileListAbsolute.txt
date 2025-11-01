@@ -1,0 +1,14 @@
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-LastIndexOfNIndexof/bin/Debug/net9.0/11.Modify-Str-Contents-LastIndexOfNIndexof
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-LastIndexOfNIndexof/bin/Debug/net9.0/11.Modify-Str-Contents-LastIndexOfNIndexof.deps.json
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-LastIndexOfNIndexof/bin/Debug/net9.0/11.Modify-Str-Contents-LastIndexOfNIndexof.runtimeconfig.json
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-LastIndexOfNIndexof/bin/Debug/net9.0/11.Modify-Str-Contents-LastIndexOfNIndexof.dll
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-LastIndexOfNIndexof/bin/Debug/net9.0/11.Modify-Str-Contents-LastIndexOfNIndexof.pdb
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-LastIndexOfNIndexof/obj/Debug/net9.0/11.Modify-Str-Contents-LastIndexOfNIndexof.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-LastIndexOfNIndexof/obj/Debug/net9.0/11.Modify-Str-Contents-LastIndexOfNIndexof.AssemblyInfoInputs.cache
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-LastIndexOfNIndexof/obj/Debug/net9.0/11.Modify-Str-Contents-LastIndexOfNIndexof.AssemblyInfo.cs
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-LastIndexOfNIndexof/obj/Debug/net9.0/11.Modify-Str-Contents-LastIndexOfNIndexof.csproj.CoreCompileInputs.cache
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-LastIndexOfNIndexof/obj/Debug/net9.0/11.Modify-Str-Contents-LastIndexOfNIndexof.dll
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-LastIndexOfNIndexof/obj/Debug/net9.0/refint/11.Modify-Str-Contents-LastIndexOfNIndexof.dll
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-LastIndexOfNIndexof/obj/Debug/net9.0/11.Modify-Str-Contents-LastIndexOfNIndexof.pdb
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-LastIndexOfNIndexof/obj/Debug/net9.0/11.Modify-Str-Contents-LastIndexOfNIndexof.genruntimeconfig.cache
+/home/booker/projects/C#/MS-Certification/11.Modify-Str-Contents-LastIndexOfNIndexof/obj/Debug/net9.0/ref/11.Modify-Str-Contents-LastIndexOfNIndexof.dll
