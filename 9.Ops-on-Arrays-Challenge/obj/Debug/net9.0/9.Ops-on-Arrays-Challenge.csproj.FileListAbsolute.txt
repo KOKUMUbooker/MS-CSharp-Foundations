@@ -1,0 +1,14 @@
+/home/booker/projects/C#/MS-Certification/9.Ops-on-Arrays-Challenge/bin/Debug/net9.0/9.Ops-on-Arrays-Challenge
+/home/booker/projects/C#/MS-Certification/9.Ops-on-Arrays-Challenge/bin/Debug/net9.0/9.Ops-on-Arrays-Challenge.deps.json
+/home/booker/projects/C#/MS-Certification/9.Ops-on-Arrays-Challenge/bin/Debug/net9.0/9.Ops-on-Arrays-Challenge.runtimeconfig.json
+/home/booker/projects/C#/MS-Certification/9.Ops-on-Arrays-Challenge/bin/Debug/net9.0/9.Ops-on-Arrays-Challenge.dll
+/home/booker/projects/C#/MS-Certification/9.Ops-on-Arrays-Challenge/bin/Debug/net9.0/9.Ops-on-Arrays-Challenge.pdb
+/home/booker/projects/C#/MS-Certification/9.Ops-on-Arrays-Challenge/obj/Debug/net9.0/9.Ops-on-Arrays-Challenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C#/MS-Certification/9.Ops-on-Arrays-Challenge/obj/Debug/net9.0/9.Ops-on-Arrays-Challenge.AssemblyInfoInputs.cache
+/home/booker/projects/C#/MS-Certification/9.Ops-on-Arrays-Challenge/obj/Debug/net9.0/9.Ops-on-Arrays-Challenge.AssemblyInfo.cs
+/home/booker/projects/C#/MS-Certification/9.Ops-on-Arrays-Challenge/obj/Debug/net9.0/9.Ops-on-Arrays-Challenge.csproj.CoreCompileInputs.cache
+/home/booker/projects/C#/MS-Certification/9.Ops-on-Arrays-Challenge/obj/Debug/net9.0/9.Ops-on-Arrays-Challenge.dll
+/home/booker/projects/C#/MS-Certification/9.Ops-on-Arrays-Challenge/obj/Debug/net9.0/refint/9.Ops-on-Arrays-Challenge.dll
+/home/booker/projects/C#/MS-Certification/9.Ops-on-Arrays-Challenge/obj/Debug/net9.0/9.Ops-on-Arrays-Challenge.pdb
+/home/booker/projects/C#/MS-Certification/9.Ops-on-Arrays-Challenge/obj/Debug/net9.0/9.Ops-on-Arrays-Challenge.genruntimeconfig.cache
+/home/booker/projects/C#/MS-Certification/9.Ops-on-Arrays-Challenge/obj/Debug/net9.0/ref/9.Ops-on-Arrays-Challenge.dll

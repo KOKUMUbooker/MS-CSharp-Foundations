@@ -1,0 +1,14 @@
+/home/booker/projects/C#/MS-Certification/9.Ops-on-Arrays-ClearnResize/bin/Debug/net9.0/9.Ops-on-Arrays-ClearnResize
+/home/booker/projects/C#/MS-Certification/9.Ops-on-Arrays-ClearnResize/bin/Debug/net9.0/9.Ops-on-Arrays-ClearnResize.deps.json
+/home/booker/projects/C#/MS-Certification/9.Ops-on-Arrays-ClearnResize/bin/Debug/net9.0/9.Ops-on-Arrays-ClearnResize.runtimeconfig.json
+/home/booker/projects/C#/MS-Certification/9.Ops-on-Arrays-ClearnResize/bin/Debug/net9.0/9.Ops-on-Arrays-ClearnResize.dll
+/home/booker/projects/C#/MS-Certification/9.Ops-on-Arrays-ClearnResize/bin/Debug/net9.0/9.Ops-on-Arrays-ClearnResize.pdb
+/home/booker/projects/C#/MS-Certification/9.Ops-on-Arrays-ClearnResize/obj/Debug/net9.0/9.Ops-on-Arrays-ClearnResize.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C#/MS-Certification/9.Ops-on-Arrays-ClearnResize/obj/Debug/net9.0/9.Ops-on-Arrays-ClearnResize.AssemblyInfoInputs.cache
+/home/booker/projects/C#/MS-Certification/9.Ops-on-Arrays-ClearnResize/obj/Debug/net9.0/9.Ops-on-Arrays-ClearnResize.AssemblyInfo.cs
+/home/booker/projects/C#/MS-Certification/9.Ops-on-Arrays-ClearnResize/obj/Debug/net9.0/9.Ops-on-Arrays-ClearnResize.csproj.CoreCompileInputs.cache
+/home/booker/projects/C#/MS-Certification/9.Ops-on-Arrays-ClearnResize/obj/Debug/net9.0/9.Ops-on-Arrays-ClearnResize.dll
+/home/booker/projects/C#/MS-Certification/9.Ops-on-Arrays-ClearnResize/obj/Debug/net9.0/refint/9.Ops-on-Arrays-ClearnResize.dll
+/home/booker/projects/C#/MS-Certification/9.Ops-on-Arrays-ClearnResize/obj/Debug/net9.0/9.Ops-on-Arrays-ClearnResize.pdb
+/home/booker/projects/C#/MS-Certification/9.Ops-on-Arrays-ClearnResize/obj/Debug/net9.0/9.Ops-on-Arrays-ClearnResize.genruntimeconfig.cache
+/home/booker/projects/C#/MS-Certification/9.Ops-on-Arrays-ClearnResize/obj/Debug/net9.0/ref/9.Ops-on-Arrays-ClearnResize.dll

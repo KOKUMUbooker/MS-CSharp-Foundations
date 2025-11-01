@@ -1,0 +1,14 @@
+/home/booker/projects/C#/MS-Certification/3.Conditionals-b/bin/Debug/net9.0/3.Conditionals-b
+/home/booker/projects/C#/MS-Certification/3.Conditionals-b/bin/Debug/net9.0/3.Conditionals-b.deps.json
+/home/booker/projects/C#/MS-Certification/3.Conditionals-b/bin/Debug/net9.0/3.Conditionals-b.runtimeconfig.json
+/home/booker/projects/C#/MS-Certification/3.Conditionals-b/bin/Debug/net9.0/3.Conditionals-b.dll
+/home/booker/projects/C#/MS-Certification/3.Conditionals-b/bin/Debug/net9.0/3.Conditionals-b.pdb
+/home/booker/projects/C#/MS-Certification/3.Conditionals-b/obj/Debug/net9.0/3.Conditionals-b.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C#/MS-Certification/3.Conditionals-b/obj/Debug/net9.0/3.Conditionals-b.AssemblyInfoInputs.cache
+/home/booker/projects/C#/MS-Certification/3.Conditionals-b/obj/Debug/net9.0/3.Conditionals-b.AssemblyInfo.cs
+/home/booker/projects/C#/MS-Certification/3.Conditionals-b/obj/Debug/net9.0/3.Conditionals-b.csproj.CoreCompileInputs.cache
+/home/booker/projects/C#/MS-Certification/3.Conditionals-b/obj/Debug/net9.0/3.Conditionals-b.dll
+/home/booker/projects/C#/MS-Certification/3.Conditionals-b/obj/Debug/net9.0/refint/3.Conditionals-b.dll
+/home/booker/projects/C#/MS-Certification/3.Conditionals-b/obj/Debug/net9.0/3.Conditionals-b.pdb
+/home/booker/projects/C#/MS-Certification/3.Conditionals-b/obj/Debug/net9.0/3.Conditionals-b.genruntimeconfig.cache
+/home/booker/projects/C#/MS-Certification/3.Conditionals-b/obj/Debug/net9.0/ref/3.Conditionals-b.dll
