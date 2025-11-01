@@ -1,0 +1,14 @@
+/home/booker/projects/C#/MS-Certification/12.Work-with-variables-Project/bin/Debug/net9.0/12.Work-with-variables-Project
+/home/booker/projects/C#/MS-Certification/12.Work-with-variables-Project/bin/Debug/net9.0/12.Work-with-variables-Project.deps.json
+/home/booker/projects/C#/MS-Certification/12.Work-with-variables-Project/bin/Debug/net9.0/12.Work-with-variables-Project.runtimeconfig.json
+/home/booker/projects/C#/MS-Certification/12.Work-with-variables-Project/bin/Debug/net9.0/12.Work-with-variables-Project.dll
+/home/booker/projects/C#/MS-Certification/12.Work-with-variables-Project/bin/Debug/net9.0/12.Work-with-variables-Project.pdb
+/home/booker/projects/C#/MS-Certification/12.Work-with-variables-Project/obj/Debug/net9.0/12.Work-with-variables-Project.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C#/MS-Certification/12.Work-with-variables-Project/obj/Debug/net9.0/12.Work-with-variables-Project.AssemblyInfoInputs.cache
+/home/booker/projects/C#/MS-Certification/12.Work-with-variables-Project/obj/Debug/net9.0/12.Work-with-variables-Project.AssemblyInfo.cs
+/home/booker/projects/C#/MS-Certification/12.Work-with-variables-Project/obj/Debug/net9.0/12.Work-with-variables-Project.csproj.CoreCompileInputs.cache
+/home/booker/projects/C#/MS-Certification/12.Work-with-variables-Project/obj/Debug/net9.0/12.Work-with-variables-Project.dll
+/home/booker/projects/C#/MS-Certification/12.Work-with-variables-Project/obj/Debug/net9.0/refint/12.Work-with-variables-Project.dll
+/home/booker/projects/C#/MS-Certification/12.Work-with-variables-Project/obj/Debug/net9.0/12.Work-with-variables-Project.pdb
+/home/booker/projects/C#/MS-Certification/12.Work-with-variables-Project/obj/Debug/net9.0/12.Work-with-variables-Project.genruntimeconfig.cache
+/home/booker/projects/C#/MS-Certification/12.Work-with-variables-Project/obj/Debug/net9.0/ref/12.Work-with-variables-Project.dll
