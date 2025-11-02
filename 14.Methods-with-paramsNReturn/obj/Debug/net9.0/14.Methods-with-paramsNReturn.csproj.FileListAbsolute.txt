@@ -1,0 +1,14 @@
+/home/booker/projects/C#/MS-Certification/14.Methods-with-paramsNReturn/bin/Debug/net9.0/14.Methods-with-paramsNReturn
+/home/booker/projects/C#/MS-Certification/14.Methods-with-paramsNReturn/bin/Debug/net9.0/14.Methods-with-paramsNReturn.deps.json
+/home/booker/projects/C#/MS-Certification/14.Methods-with-paramsNReturn/bin/Debug/net9.0/14.Methods-with-paramsNReturn.runtimeconfig.json
+/home/booker/projects/C#/MS-Certification/14.Methods-with-paramsNReturn/bin/Debug/net9.0/14.Methods-with-paramsNReturn.dll
+/home/booker/projects/C#/MS-Certification/14.Methods-with-paramsNReturn/bin/Debug/net9.0/14.Methods-with-paramsNReturn.pdb
+/home/booker/projects/C#/MS-Certification/14.Methods-with-paramsNReturn/obj/Debug/net9.0/14.Methods-with-paramsNReturn.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C#/MS-Certification/14.Methods-with-paramsNReturn/obj/Debug/net9.0/14.Methods-with-paramsNReturn.AssemblyInfoInputs.cache
+/home/booker/projects/C#/MS-Certification/14.Methods-with-paramsNReturn/obj/Debug/net9.0/14.Methods-with-paramsNReturn.AssemblyInfo.cs
+/home/booker/projects/C#/MS-Certification/14.Methods-with-paramsNReturn/obj/Debug/net9.0/14.Methods-with-paramsNReturn.csproj.CoreCompileInputs.cache
+/home/booker/projects/C#/MS-Certification/14.Methods-with-paramsNReturn/obj/Debug/net9.0/14.Methods-with-paramsNReturn.dll
+/home/booker/projects/C#/MS-Certification/14.Methods-with-paramsNReturn/obj/Debug/net9.0/refint/14.Methods-with-paramsNReturn.dll
+/home/booker/projects/C#/MS-Certification/14.Methods-with-paramsNReturn/obj/Debug/net9.0/14.Methods-with-paramsNReturn.pdb
+/home/booker/projects/C#/MS-Certification/14.Methods-with-paramsNReturn/obj/Debug/net9.0/14.Methods-with-paramsNReturn.genruntimeconfig.cache
+/home/booker/projects/C#/MS-Certification/14.Methods-with-paramsNReturn/obj/Debug/net9.0/ref/14.Methods-with-paramsNReturn.dll
