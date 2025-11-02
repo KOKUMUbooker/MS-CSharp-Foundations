@@ -1,0 +1,14 @@
+/home/booker/projects/C#/MS-Certification/16.Debugging/bin/Debug/net9.0/16.Debugging
+/home/booker/projects/C#/MS-Certification/16.Debugging/bin/Debug/net9.0/16.Debugging.deps.json
+/home/booker/projects/C#/MS-Certification/16.Debugging/bin/Debug/net9.0/16.Debugging.runtimeconfig.json
+/home/booker/projects/C#/MS-Certification/16.Debugging/bin/Debug/net9.0/16.Debugging.dll
+/home/booker/projects/C#/MS-Certification/16.Debugging/bin/Debug/net9.0/16.Debugging.pdb
+/home/booker/projects/C#/MS-Certification/16.Debugging/obj/Debug/net9.0/16.Debugging.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C#/MS-Certification/16.Debugging/obj/Debug/net9.0/16.Debugging.AssemblyInfoInputs.cache
+/home/booker/projects/C#/MS-Certification/16.Debugging/obj/Debug/net9.0/16.Debugging.AssemblyInfo.cs
+/home/booker/projects/C#/MS-Certification/16.Debugging/obj/Debug/net9.0/16.Debugging.csproj.CoreCompileInputs.cache
+/home/booker/projects/C#/MS-Certification/16.Debugging/obj/Debug/net9.0/16.Debugging.dll
+/home/booker/projects/C#/MS-Certification/16.Debugging/obj/Debug/net9.0/refint/16.Debugging.dll
+/home/booker/projects/C#/MS-Certification/16.Debugging/obj/Debug/net9.0/16.Debugging.pdb
+/home/booker/projects/C#/MS-Certification/16.Debugging/obj/Debug/net9.0/16.Debugging.genruntimeconfig.cache
+/home/booker/projects/C#/MS-Certification/16.Debugging/obj/Debug/net9.0/ref/16.Debugging.dll
