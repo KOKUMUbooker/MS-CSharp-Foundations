@@ -1,0 +1,14 @@
+/home/booker/projects/C#/MS-Certification/15.Mini-Game/bin/Debug/net9.0/15.Mini-Game
+/home/booker/projects/C#/MS-Certification/15.Mini-Game/bin/Debug/net9.0/15.Mini-Game.deps.json
+/home/booker/projects/C#/MS-Certification/15.Mini-Game/bin/Debug/net9.0/15.Mini-Game.runtimeconfig.json
+/home/booker/projects/C#/MS-Certification/15.Mini-Game/bin/Debug/net9.0/15.Mini-Game.dll
+/home/booker/projects/C#/MS-Certification/15.Mini-Game/bin/Debug/net9.0/15.Mini-Game.pdb
+/home/booker/projects/C#/MS-Certification/15.Mini-Game/obj/Debug/net9.0/15.Mini-Game.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C#/MS-Certification/15.Mini-Game/obj/Debug/net9.0/15.Mini-Game.AssemblyInfoInputs.cache
+/home/booker/projects/C#/MS-Certification/15.Mini-Game/obj/Debug/net9.0/15.Mini-Game.AssemblyInfo.cs
+/home/booker/projects/C#/MS-Certification/15.Mini-Game/obj/Debug/net9.0/15.Mini-Game.csproj.CoreCompileInputs.cache
+/home/booker/projects/C#/MS-Certification/15.Mini-Game/obj/Debug/net9.0/15.Mini-Game.dll
+/home/booker/projects/C#/MS-Certification/15.Mini-Game/obj/Debug/net9.0/refint/15.Mini-Game.dll
+/home/booker/projects/C#/MS-Certification/15.Mini-Game/obj/Debug/net9.0/15.Mini-Game.pdb
+/home/booker/projects/C#/MS-Certification/15.Mini-Game/obj/Debug/net9.0/15.Mini-Game.genruntimeconfig.cache
+/home/booker/projects/C#/MS-Certification/15.Mini-Game/obj/Debug/net9.0/ref/15.Mini-Game.dll
