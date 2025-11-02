@@ -1,0 +1,14 @@
+/home/booker/projects/C#/MS-Certification/17.Exception-Handling-try-catch/bin/Debug/net9.0/17.Exception-Handling-try-catch
+/home/booker/projects/C#/MS-Certification/17.Exception-Handling-try-catch/bin/Debug/net9.0/17.Exception-Handling-try-catch.deps.json
+/home/booker/projects/C#/MS-Certification/17.Exception-Handling-try-catch/bin/Debug/net9.0/17.Exception-Handling-try-catch.runtimeconfig.json
+/home/booker/projects/C#/MS-Certification/17.Exception-Handling-try-catch/bin/Debug/net9.0/17.Exception-Handling-try-catch.dll
+/home/booker/projects/C#/MS-Certification/17.Exception-Handling-try-catch/bin/Debug/net9.0/17.Exception-Handling-try-catch.pdb
+/home/booker/projects/C#/MS-Certification/17.Exception-Handling-try-catch/obj/Debug/net9.0/17.Exception-Handling-try-catch.GeneratedMSBuildEditorConfig.editorconfig
+/home/booker/projects/C#/MS-Certification/17.Exception-Handling-try-catch/obj/Debug/net9.0/17.Exception-Handling-try-catch.AssemblyInfoInputs.cache
+/home/booker/projects/C#/MS-Certification/17.Exception-Handling-try-catch/obj/Debug/net9.0/17.Exception-Handling-try-catch.AssemblyInfo.cs
+/home/booker/projects/C#/MS-Certification/17.Exception-Handling-try-catch/obj/Debug/net9.0/17.Exception-Handling-try-catch.csproj.CoreCompileInputs.cache
+/home/booker/projects/C#/MS-Certification/17.Exception-Handling-try-catch/obj/Debug/net9.0/17.Exception-Handling-try-catch.dll
+/home/booker/projects/C#/MS-Certification/17.Exception-Handling-try-catch/obj/Debug/net9.0/refint/17.Exception-Handling-try-catch.dll
+/home/booker/projects/C#/MS-Certification/17.Exception-Handling-try-catch/obj/Debug/net9.0/17.Exception-Handling-try-catch.pdb
+/home/booker/projects/C#/MS-Certification/17.Exception-Handling-try-catch/obj/Debug/net9.0/17.Exception-Handling-try-catch.genruntimeconfig.cache
+/home/booker/projects/C#/MS-Certification/17.Exception-Handling-try-catch/obj/Debug/net9.0/ref/17.Exception-Handling-try-catch.dll
